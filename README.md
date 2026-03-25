@@ -77,4 +77,4 @@ Researched cybercrime and created a prevention checklist.
 
 
 
-If you want, I can also **customize it with your branch, add badges, or make it more attractive (with emojis + formatting for higher marks)** 👍
+
